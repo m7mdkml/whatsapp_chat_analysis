@@ -4,18 +4,7 @@ How to use
 ## Contents ##
 
 + [How to export txt file](#How to export txt file)
-    + [Compressed Files](#compressed-files)
-    + [40cdslength.py](#40cdslengthpy)
-    + [continue](#continue)
-+ [Reading FASTA Files](#reading-fasta-files)
-    + [mcb185 Library](#mcb185-library)
-    + [Stepping Through FASTA Files](#stepping-through-fasta-files)
-+ [Sequence Composition](#sequence-composition)
-    + [GC Composition](#gc-composition)
-    + [Individual Variables](#individual-variables)
-    + [List Variation](#list-variation)
-    + [Indexing with str.find()](#indexing-with-strfind)
-    + [Cou
++ [How to run program](#How to run program)
 
 ------------------------------------------------------------------------------
 
