@@ -1,11 +1,6 @@
 How to use
 =================
 
-## Contents ##
-
-+ [How to export txt file](#How to export txt file)
-+ [How to run program](#How to run program)
-
 ------------------------------------------------------------------------------
 
 
