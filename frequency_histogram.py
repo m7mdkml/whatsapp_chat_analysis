@@ -69,8 +69,8 @@ def plot_message_histogram(chat_df):
 
 
 if __name__ == "__main__":
-    # Replace with the actual path to your WhatsApp chat file
-    chat_file_path = 'wedo_chat_2017_2024.txt'
+    # Enter your chat back up, make sure you are in the same directory
+    chat_file_path = input("Enter text file: ")
 
     # Load chat data into a DataFrame
     chat_df = parse_message(chat_file_path)
